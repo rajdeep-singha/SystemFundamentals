@@ -6,12 +6,12 @@ How a single-server app evolves into a highly-available, large-scale system — 
 
 ---
 
-## ✍️ Handwritten Notes
-📄 [My handwritten notes (PDF)](./assets/scaling-handwritten-notes.pdf)
+##  Handwritten Notes
+ [My handwritten notes (PDF)](./assets/scaling-handwritten-notes.pdf)
 
 ---
 
-## 🧠 Key Learnings
+##  Key Learnings
 
 ### 1. Horizontal vs Vertical Scaling
 - **Vertical scaling (scale up)** → add more power (CPU, RAM) to a *single* server.
@@ -63,7 +63,7 @@ How a single-server app evolves into a highly-available, large-scale system — 
 
 ---
 
-## 🏗️ The Full Picture
+##  The Full Picture
 After applying all of the above, the service looks like:
 - **Multiple servers** behind a **Load Balancer**
 - **Master–Slave DB** replication
@@ -73,10 +73,10 @@ After applying all of the above, the service looks like:
 
 ---
 
-## ❓ Open Questions
+##  Open Questions
 - How does the load balancer detect an unhealthy server (health checks)?
 - Sync vs async replication — what's the consistency trade-off on slave reads?
 - Where exactly does the cache sit relative to the DB (read-through vs cache-aside)?
 
-## 🔗 References
+##  References
 - *System Design Interview – An Insider's Guide* (Vol. 1) — Alex Xu
