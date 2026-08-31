@@ -6,7 +6,7 @@ A personal, evolving collection of **system design notes**. Every day (or every 
 
 ---
 
-## 📈 Progress
+##  Progress
 
 | #  | Topic | Status | Learned On | Notes |
 |----|-------|:------:|:----------:|:-----:|
