@@ -11,7 +11,7 @@ A personal, evolving collection of **system design notes**. Every day (or every 
 | #  | Topic | Status | Learned On | Notes |
 |----|-------|:------:|:----------:|:-----:|
 | 01 | [Scaling](./01-scaling) | 🟢 | 2026-08-29 | [Notes](./01-scaling/README.md) |
-| 02 | Back of the Envelope Estimation | 🔴 | — | — |
+| 02 | [Back of the Envelope Estimation](./02-back-of-the-envelope-estimation) | 🟢 | 2026-09-02 | [Notes](./02-back-of-the-envelope-estimation/README.md) |
 | 03 | System Design Framework | 🔴 | — | — |
 | 04 | Rate Limiter | 🔴 | — | — |
 | 05 | Consistent Hashing | 🔴 | — | — |
